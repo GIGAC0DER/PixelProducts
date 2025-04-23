@@ -1,2 +1,2 @@
 # PixelProducts
-This is a fake marketplace >:)
+This is a E-Books marketplace >:)
