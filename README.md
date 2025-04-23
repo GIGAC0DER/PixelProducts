@@ -1,2 +1,2 @@
 # PixelProducts
-This is a E-Books marketplace >:)
+This is an E-Books marketplace >:)
